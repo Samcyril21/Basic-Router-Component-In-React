@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import {  Routes, Route,link } from "react-router-dom";
+import {Routes, Route,link} from "react-router-dom";
 import Home from "./Home";
 import Page2 from "./Page2";
 
