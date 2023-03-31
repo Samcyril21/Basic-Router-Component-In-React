@@ -7,6 +7,9 @@ export default function Home() {
     <div>
       <h1>This Is Home page</h1>
      <Link to="/Page2" >Page2</Link>
+     {<br/>}
+     {<br/>}
+     <Link to="/About" >About</Link>
     </div>
   );
 }
